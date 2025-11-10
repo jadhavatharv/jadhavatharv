@@ -1,7 +1,7 @@
 ## Hi there, I'm Atharv Jadhav 👋
 I'm a first-year **Computer Science student** with a specilization in **Artificial Intelligence and Machine Learning (AIML)**.
 
-My goal is to bbuild a career in the field of AI, developing intelligent systems that can solve real-world problems. I'm passionate about how data and algorithms can create new possibilties.
+My goal is to build a career in the field of AI, developing intelligent systems that can solve real-world problems. I'm passionate about how data and algorithms can create new possibilties.
 
 ---
 
