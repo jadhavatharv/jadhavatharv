@@ -32,9 +32,9 @@ I'm just getting started, but here's whats's on my learning roadmap:
 ## 📊My GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=atharvjadhavdev&show_icons=true&theme=tokyonight" alt="Your GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=jadhavatharv&show_icons=true&theme=tokyonight" alt="Your GitHub Stats" />
 &nbsp:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvjadhavdev&layout=compact&theme=tokkyonight" alt="Your Top Languages/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavatharv&layout=compact&theme=tokkyonight" alt="Your Top Languages/>
 </p>
 
 
