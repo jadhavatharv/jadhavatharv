@@ -27,13 +27,13 @@ I'm just getting started, but here's whats's on my learning roadmap:
 * **AI/ML Libraries:** (Coming Soon!) TensoFlow, PyTorch, Scikit-learn
 * **Tools:** Git, GitHub, VS Code
 
---
+---
 
 ## 📊My GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jadhavatharv&show_icons=true&theme=tokyonight" alt="Your GitHub Stats" />
-&nbsp:
+&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavatharv&layout=compact&theme=tokkyonight" alt="Your Top Languages/>
 </p>
 
