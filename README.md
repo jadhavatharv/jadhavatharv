@@ -14,7 +14,7 @@ My goal is to build a career in the field of AI, developing intelligent systems 
   * Computer Vision
   * Reinforcement Learning
   * Data Science
-* 📫How to reach me: [atharvjadhav.dev@outlook.com](mailto:atharvjadhav.ai@outlook.com)
+* 📫How to reach me: [atharvjadhav.ai@outlook.com](mailto:atharvjadhav.ai@outlook.com)
 * 🔗Connect with me: [My Linkedin Profile](https://www.linkedin.com/in/jadhavatharv)
 
 ---
@@ -32,9 +32,9 @@ I'm just getting started, but here's whats's on my learning roadmap:
 ## 📊My GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jadhavatharv&show_icons=true&theme=tokyonight" alt="Your GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavatharv&layout=compact&theme=tokkyonight" alt="Your Top Languages/>
+<img src="vercel.app" alt="Your GitHub Stats" />
+&nbsp;&nbsp;
+<img src="vercel.app" alt="Your Top Languages/>
 </p>
 
 
