@@ -14,7 +14,7 @@ My goal is to build a career in the field of AI, developing intelligent systems 
   * Computer Vision
   * Reinforcement Learning
   * Data Science
-* 📫How to reach me: [atharvjadhav.dev@outlook.com](mailto:atharvjadhav.dev@outlook.com)
+* 📫How to reach me: [atharvjadhav.dev@outlook.com](mailto:atharvjadhav.ai@outlook.com)
 * 🔗Connect with me: [My Linkedin Profile](https://www.linkedin.com/in/jadhavatharv)
 
 ---
